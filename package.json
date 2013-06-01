@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "_id": "areas@0.0.1",
-  "readme": "ERROR: No README.md file found!",
+  "readme": "README.md",
   "_from": "areas@0.0.1",
   "dependencies": {
     "methods": "*"
