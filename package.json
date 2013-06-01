@@ -1,0 +1,24 @@
+{
+  "name": "areas",
+  "version": "0.0.1",
+  "description": "Areas - express routing for large projects",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "routes",
+    "express",
+    "routing engine"
+  ],
+  "author": {
+    "name": "Robby Valles"
+  },
+  "license": "MIT",
+  "_id": "areas@0.0.1",
+  "readme": "ERROR: No README.md file found!",
+  "_from": "areas@0.0.1",
+  "dependencies": {
+    "methods": "*"
+  }
+}
